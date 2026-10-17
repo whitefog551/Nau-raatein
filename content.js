@@ -20,11 +20,11 @@ window.NR_CONTENT = {
     // Optional: your WhatsApp number with country code, digits only (e.g. "919876543210").
     // Leave "" to hide the "Send on WhatsApp" button. Nothing is sent until she presses Send in WhatsApp.
     whatsappNumber: "",
-    music: { src: "assets/audio/navratri-ambient.wav" },
+    music: { src: "navratri-ambient.wav" },
     portrait: {
-      sketch: "assets/img/portrait-sketch.jpg",
+      sketch: "portrait-sketch.jpg",
       // Optional true-colour original (same crop/aspect ratio as the sketch). If absent, a soft colour wash of the sketch is used.
-      colour: "assets/img/portrait-colour.jpg"
+      colour: "portrait-colour.jpg"
     }
   },
 
